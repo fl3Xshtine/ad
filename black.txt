@@ -1,0 +1,20 @@
+# JEX blacklist common
+# 10-24-2020
+
+# Amazon
+176.32.98.166 amazon.com
+99.84.166.50 www.amazon.com
+143.204.183.103 smile.amazon.com
+13.249.86.238 images-na.ssl-images-amazon.com
+99.84.103.137 m.media-amazon.com
+54.239.17.86 completion.amazon.com
+52.94.232.195 unagi-na.amazon.com
+54.204.242.217 fls-na.amazon.com
+52.94.232.121 sdu.amazon.com
+99.84.219.174 music.amazon.com
+52.94.233.230 atv-ps.amazon.com
+13.224.213.42 js-assets.aiv-cdn.net
+
+mas-ext.amazon.com
+mas-sdk.amazon.com
+mas-ssr.amazon.com
